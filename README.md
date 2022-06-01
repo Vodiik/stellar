@@ -2,8 +2,7 @@
 
 <h2>Road map</h2>
   <h3>Blocks</h3>
-  - [ ] Crusher
-  - 
+  - [ ] Crusher 
   
   <h3>Items</h3>
   
