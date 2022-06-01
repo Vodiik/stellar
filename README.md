@@ -9,10 +9,14 @@
   
   <h3>Entities</h3>
   
-  <h3>Planets & moons</h3>
+  <h3>Planets & moons</h3>  
   - [ ] Round world
+  - [ ] Terraforming
   - [ ] New generation of ores
-  
+  - [ ] Travelling through space
+  - [ ] Planet information
+
+ 
   - [ ] Earth (Overworld)
   - [ ] Moon
   - [ ] Mars
