@@ -14,9 +14,7 @@
   - [ ] Terraforming
   - [ ] New generation of ores
   - [ ] Travelling through space
-  - [ ] Planet information
-
- 
+  - [ ] Planet information 
   - [ ] Earth (Overworld)
   - [ ] Moon
   - [ ] Mars
