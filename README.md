@@ -2,8 +2,16 @@
 
 <h2>Road map</h2>
   <h3>Blocks</h3>
+  
   - [ ] Crusher
   - [ ] Assembler
+  - [ ] Ores
+    - [ ] Copper
+    - [ ] Tin
+    - [ ] Zinc
+    - [ ] Silicon
+    - [ ] Silver
+    - [ ] Nickel
   
   <h3>Items</h3>
   
