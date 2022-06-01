@@ -18,6 +18,7 @@
   - [ ] Planet information 
 
   <h4>Dimensions</h4>
+  
   - [ ] Earth (Overworld)
   - [ ] Moon
   - [ ] Mars
